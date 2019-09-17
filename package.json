@@ -1,0 +1,19 @@
+{
+  "name": "diallo_",
+  "version": "1.0.0",
+  "description": "this is for my diallo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balaye94dev/diallo_.git"
+  },
+  "author": "BA Abdoulaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balaye94dev/diallo_/issues"
+  },
+  "homepage": "https://github.com/balaye94dev/diallo_#readme"
+}
